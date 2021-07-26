@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Maplestory: An obsession with imaginary plants" 
-   
        banner="https://wallpapercave.com/wp/wp2255744.jpg" 
        layout="vertical">
 
