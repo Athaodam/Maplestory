@@ -3,7 +3,7 @@
 <param ve-config 
        title="Maplestory" 
        banner="https://wallpapercave.com/wp/wp2255744.jpg" 
-       layout="horizontal">
+       layout="vertical">
 
 
 
