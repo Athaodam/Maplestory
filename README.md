@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="Maplestory: An obsession with imaginary plants" 
+       author= Ashley Thuthao Keng Dam 
        banner="https://wallpapercave.com/wp/wp2255744.jpg" 
        layout="vertical">
 
