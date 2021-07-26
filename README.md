@@ -2,12 +2,13 @@
 
 <param ve-config 
        title="Maplestory: An obsession with imaginary plants" 
-       author= Ashley Thuthao Keng Dam 
+   
        banner="https://wallpapercave.com/wp/wp2255744.jpg" 
        layout="vertical">
 
 <param ve-map>
 
+<param ve-image url=“https://i.ytimg.com/vi/tc61Xjl4_X8/maxresdefault.jpg”>
 
 
 <b> MapleStory (Korean: 메이플스토리; RR: Meipeul Seutori) </b> is a free-to-play, 2D, side-scrolling massively multiplayer online role-playing game, developed by South Korean company Wizet. Several versions of the game are available for specific countries or regions, and each is published by various companies such as Nexon.
