@@ -10,8 +10,8 @@
 
 
 
-
 <b> MapleStory (Korean: 메이플스토리; RR: Meipeul Seutori) </b> is a free-to-play, 2D, side-scrolling massively multiplayer online role-playing game, developed by South Korean company Wizet. Several versions of the game are available for specific countries or regions, and each is published by various companies such as Nexon.
+<param ve-entity eid= "Q569624"> <!--Maplestory--> 
 
 In the game, players travel the "Maple World", defeating monsters and developing their characters' skills and abilities as is typical in role-playing games. Players can interact with others in many ways, including chatting and trading. Groups of players can band together in parties to hunt monsters and share rewards, and can also form guilds to interact more easily with each other. Players additionally have the option to visit the in-game "Cash Shop" to purchase a variety of character appearances or gameplay enhancements with real money.
 
