@@ -16,7 +16,7 @@
 In the game, players travel the "Maple World", defeating monsters and developing their characters' skills and abilities as is typical in role-playing games. Players can interact with others in many ways, including chatting and trading. Groups of players can band together in parties to hunt monsters and share rewards, and can also form guilds to interact more easily with each other. Players additionally have the option to visit the in-game "Cash Shop" to purchase a variety of character appearances or gameplay enhancements with real money.
 
 
-<param ve-image fit=“contain” url=“https://i.ytimg.com/vi/8FShyABhIAs/maxresdefault.jp”>
+<param ve-image fit=“contain” url=“https://i.pinimg.com/originals/b7/bf/de/b7bfdedce97b02e188dc3b4e406dca44.jpg”>
 
 
 
