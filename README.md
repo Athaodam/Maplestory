@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Maplestory: An obsession with imaginary plants" 
+       title="Imaginary Plants of Maplestory" 
        author= Thao 
        banner="https://wallpapercave.com/wp/wp2255744.jpg" 
        layout="vertical">
