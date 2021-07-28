@@ -17,7 +17,7 @@
 In the game, players travel the "Maple World", defeating [monsters](https://strategywiki.org/wiki/MapleStory/Monsters) and developing their characters' skills and abilities as is typical in role-playing games. Players can interact with others in many ways, including chatting and trading. Groups of players can band together in parties to hunt monsters and share rewards, and can also form guilds to interact more easily with each other. Players additionally have the option to visit the in-game "Cash Shop" to purchase a variety of character appearances or gameplay enhancements with real money. <param ve-entity eid= "Q160738"> <!--RPGs-->
 
 <param ve-map center= "37.57683713687936, 126.97568055679828" zoom="10"> 
-<param ve-map-layer geojson url= "
+<param ve-map-layer geojson url= "https://github.com/Athaodam/Maplestory/blob/main/Map.json">
 
 
 
